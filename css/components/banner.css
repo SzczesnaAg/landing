@@ -1,0 +1,26 @@
+.banner {
+  color: white;
+  background-size: cover;
+  display: flex;
+  height: 600px;
+  background-position: center;
+  position: relative;
+}
+
+.banner h1 {
+  font-size: bold;
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.1);
+
+}
+
+.banner p {
+  margin-bottom: 30px;
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.1);
+}
+
+.container {
+  padding: 20px;
+  position: absolute;
+  bottom: 37%;
+  left: 15%;
+}

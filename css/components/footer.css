@@ -1,0 +1,21 @@
+.footer {
+   background-color: #2c2b2b;
+   padding: 40px;
+}
+.follow-ikon {
+  width: 100%;
+  background-color: #2c2b2b;
+  text-align: center;
+}
+
+.follow-ikon i {
+  color: #1EDD88;
+  padding-top: 15px;
+  font-size: 30px;
+}
+
+.follow-ikon p {
+  color: lightgray;
+  padding-bottom: 40px;
+  font-size: 12px;
+}
