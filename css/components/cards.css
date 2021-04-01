@@ -1,6 +1,7 @@
 .conteainer-middel_section {
   background-color: white;
-
+  width: 900px;
+  margin: auto;
 }
 
 
@@ -17,7 +18,7 @@
 }
 
 .card {
-  width: 250px;
+  width: 200px;
   text-align: center;
   padding: 20px;
   border: 0,7px solid   #DCDCDC;
@@ -27,8 +28,8 @@
 }
 
 .card img {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
 
 .card p {
